@@ -11,3 +11,5 @@ write.csv(importe_tipo_cliente,file="outputs/importe_tipo_cliente.csv")
 
 # Creamos estas líneas nuevas
 # Y estas también...
+
+# cambios en el programa
