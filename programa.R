@@ -8,3 +8,6 @@ importe_tipo <- agr_exp %>%
             p75_importe = quantile(importe_persona, probs = c(0.75)),
             max_importe=max(importe_persona))
 write.csv(importe_tipo_cliente,file="outputs/importe_tipo_cliente.csv")
+
+# Creamos estas líneas nuevas
+# Y estas también...
